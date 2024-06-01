@@ -1,4 +1,43 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+    <queries>
+        <intent>
+            <action
+                android:name="android.intent.action.VIEW"/>
+            <data
+                android:scheme="https"/>
+        </intent>
+        <intent>
+            <action
+                android:name="android.intent.action.DIAL"/>
+            <data
+                android:scheme="tel"/>
+        </intent>
+        <intent>
+            <action
+                android:name="android.intent.action.DIAL"/>
+            <data
+                android:scheme="mailto"/>
+        </intent>
+        <intent>
+            <action
+                android:name="android.intent.action.SEND"/>
+            <data
+                android:mimeType="*/*"/>
+        </intent>
+        <intent>
+            <action
+                android:name="android.intent.action.VIEW"/>
+            <data
+                android:scheme="https"/>
+        </intent>
+    </queries>
+
     <application
         android:label="care_now"
         android:name="${applicationName}"

@@ -126,7 +126,7 @@ class ScreenMentalHealthResults extends StatelessWidget {
        return getAnxietyLevel(score);
      case 'Generalized Anxiety Disorder':
        return getGeneralizedAnxietyLevel(score);
-     case 'panic disorder':
+     case 'Panic Disorder':
        return getPanicDisorderLevel(score);
      case 'Obsessive-Compulsive Disorder (OCD)':
        return getOCDLevel(score);

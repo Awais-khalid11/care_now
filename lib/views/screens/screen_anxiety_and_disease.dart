@@ -1,6 +1,6 @@
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/views/screens/screen_check_mental_health.dart';
-import 'package:CareNow/views/screens/screen_diseases.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/views/screens/screen_check_mental_health.dart';
+import 'package:care_now/views/screens/screen_diseases.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

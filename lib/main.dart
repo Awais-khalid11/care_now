@@ -1,12 +1,12 @@
-import 'package:CareNow/views/screens/home_screen.dart';
-import 'package:CareNow/views/screens/screen_information.dart';
-import 'package:CareNow/views/screens/screen_splash.dart';
+import 'package:care_now/views/screens/home_screen.dart';
+import 'package:care_now/views/screens/screen_information.dart';
+import 'package:care_now/views/screens/screen_splash.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';
-import 'package:CareNow/models/user.dart' as userModel;
+import 'package:care_now/models/user.dart' as userModel;
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'helpers/helper.dart';

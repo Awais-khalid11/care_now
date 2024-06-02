@@ -1,4 +1,4 @@
-import 'package:CareNow/helpers/firebase_utils.dart';
+import 'package:care_now/helpers/firebase_utils.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
 

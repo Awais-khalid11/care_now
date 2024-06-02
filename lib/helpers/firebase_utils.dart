@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_storage/firebase_storage.dart';
-import 'package:CareNow/extensions/num_extensions.dart';
+import 'package:care_now/extensions/num_extensions.dart';
 
 class FirebaseUtils {
   static Future<String> uploadImage(

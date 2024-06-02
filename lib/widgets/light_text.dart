@@ -1,4 +1,4 @@
-import 'package:CareNow/helpers/constants.dart';
+import 'package:care_now/helpers/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 

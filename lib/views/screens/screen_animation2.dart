@@ -1,4 +1,4 @@
-import 'package:CareNow/views/screens/screen_animation3.dart';
+import 'package:care_now/views/screens/screen_animation3.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

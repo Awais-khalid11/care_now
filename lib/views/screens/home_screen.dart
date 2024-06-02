@@ -1,9 +1,9 @@
-import 'package:CareNow/views/screens/screen_check_mental_health.dart';
-import 'package:CareNow/views/screens/screen_diseases.dart';
-import 'package:CareNow/views/screens/screen_home.dart';
-import 'package:CareNow/widgets/light_text.dart';
-import 'package:CareNow/widgets/semi_bold_text.dart';
-import 'package:CareNow/widgets/textField.dart';
+import 'package:care_now/views/screens/screen_check_mental_health.dart';
+import 'package:care_now/views/screens/screen_diseases.dart';
+import 'package:care_now/views/screens/screen_home.dart';
+import 'package:care_now/widgets/light_text.dart';
+import 'package:care_now/widgets/semi_bold_text.dart';
+import 'package:care_now/widgets/textField.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';

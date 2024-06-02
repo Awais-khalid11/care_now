@@ -1,8 +1,8 @@
-import 'package:CareNow/controllers/phone_controller.dart';
-import 'package:CareNow/extensions/widget_extension.dart';
-import 'package:CareNow/views/screens/screen_phone_verification.dart';
-import 'package:CareNow/widgets/button.dart';
-import 'package:CareNow/widgets/semi_bold_text.dart';
+import 'package:care_now/controllers/phone_controller.dart';
+import 'package:care_now/extensions/widget_extension.dart';
+import 'package:care_now/views/screens/screen_phone_verification.dart';
+import 'package:care_now/widgets/button.dart';
+import 'package:care_now/widgets/semi_bold_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-import 'package:CareNow/models/user.dart' as model;
+import 'package:care_now/models/user.dart' as model;
 import '../helpers/helper.dart';
 import '../views/screens/home_screen.dart';
 import '../views/screens/screen_home.dart';

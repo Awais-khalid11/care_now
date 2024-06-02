@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:CareNow/helpers/helper.dart';
-import 'package:CareNow/models/history.dart';
-import 'package:CareNow/models/user.dart';
-import 'package:CareNow/widgets/regular_text.dart';
-import 'package:CareNow/widgets/semi_bold_text.dart';
+import 'package:care_now/helpers/helper.dart';
+import 'package:care_now/models/history.dart';
+import 'package:care_now/models/user.dart';
+import 'package:care_now/widgets/regular_text.dart';
+import 'package:care_now/widgets/semi_bold_text.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

@@ -1,6 +1,6 @@
-import 'package:CareNow/helpers/firebase_utils.dart';
-import 'package:CareNow/helpers/helper.dart';
-import 'package:CareNow/models/history.dart';
+import 'package:care_now/helpers/firebase_utils.dart';
+import 'package:care_now/helpers/helper.dart';
+import 'package:care_now/models/history.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,4 +1,4 @@
-import 'package:CareNow/helpers/disease_list.dart';
+import 'package:care_now/helpers/disease_list.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

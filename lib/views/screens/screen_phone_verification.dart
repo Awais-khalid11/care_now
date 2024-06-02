@@ -1,8 +1,8 @@
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/widgets/light_text.dart';
-import 'package:CareNow/widgets/medium_text.dart';
-import 'package:CareNow/widgets/regular_text.dart';
-import 'package:CareNow/widgets/semi_bold_text.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/widgets/light_text.dart';
+import 'package:care_now/widgets/medium_text.dart';
+import 'package:care_now/widgets/regular_text.dart';
+import 'package:care_now/widgets/semi_bold_text.dart';
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import 'package:pinput/pinput.dart';

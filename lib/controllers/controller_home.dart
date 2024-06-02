@@ -1,9 +1,9 @@
 import 'dart:developer';
 
-import 'package:CareNow/helpers/helper.dart';
+import 'package:care_now/helpers/helper.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:get/get.dart';
-import 'package:CareNow/models/user.dart' as model;
+import 'package:care_now/models/user.dart' as model;
 import '../helpers/fcm.dart';
 
 class ControllerHome extends GetxController{

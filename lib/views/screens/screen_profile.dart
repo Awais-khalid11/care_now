@@ -1,11 +1,11 @@
 import 'dart:io';
-import 'package:CareNow/controllers/controller_profile.dart';
-import 'package:CareNow/extensions/widget_extension.dart';
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/helpers/helper.dart';
-import 'package:CareNow/models/user.dart' as model;
-import 'package:CareNow/views/screens/screen_sign_in.dart';
-import 'package:CareNow/widgets/button.dart';
+import 'package:care_now/controllers/controller_profile.dart';
+import 'package:care_now/extensions/widget_extension.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/helpers/helper.dart';
+import 'package:care_now/models/user.dart' as model;
+import 'package:care_now/views/screens/screen_sign_in.dart';
+import 'package:care_now/widgets/button.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

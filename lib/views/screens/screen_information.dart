@@ -1,7 +1,7 @@
-import 'package:CareNow/views/screens/screen_pick_blood_group.dart';
-import 'package:CareNow/widgets/button.dart';
-import 'package:CareNow/widgets/regular_text.dart';
-import 'package:CareNow/widgets/semi_bold_text.dart';
+import 'package:care_now/views/screens/screen_pick_blood_group.dart';
+import 'package:care_now/widgets/button.dart';
+import 'package:care_now/widgets/regular_text.dart';
+import 'package:care_now/widgets/semi_bold_text.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:sizer/sizer.dart';

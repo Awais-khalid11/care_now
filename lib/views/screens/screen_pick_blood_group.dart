@@ -1,9 +1,9 @@
-import 'package:CareNow/controllers/controller_information.dart';
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/views/screens/screen_animation1.dart';
-import 'package:CareNow/widgets/button.dart';
-import 'package:CareNow/widgets/custom_progress_widget.dart';
-import 'package:CareNow/widgets/light_text.dart';
+import 'package:care_now/controllers/controller_information.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/views/screens/screen_animation1.dart';
+import 'package:care_now/widgets/button.dart';
+import 'package:care_now/widgets/custom_progress_widget.dart';
+import 'package:care_now/widgets/light_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

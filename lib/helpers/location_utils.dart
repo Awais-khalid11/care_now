@@ -3,7 +3,7 @@ import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart' ;
 import 'package:location/location.dart' as loc;
 import 'package:permission_handler/permission_handler.dart';
-import 'package:CareNow/extensions/num_extensions.dart';
+import 'package:care_now/extensions/num_extensions.dart';
 
 Future<bool> checkPermissionStatus() async {
   var status = await Permission.locationWhenInUse.status;

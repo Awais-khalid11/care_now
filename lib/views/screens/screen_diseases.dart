@@ -1,6 +1,6 @@
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/helpers/disease_list.dart';
-import 'package:CareNow/views/screens/screen_disease_result.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/helpers/disease_list.dart';
+import 'package:care_now/views/screens/screen_disease_result.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

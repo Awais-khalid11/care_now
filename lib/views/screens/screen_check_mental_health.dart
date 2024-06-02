@@ -1,5 +1,5 @@
-import 'package:CareNow/helpers/check_mental_health.dart';
-import 'package:CareNow/views/screens/screen_check_anxiety.dart';
+import 'package:care_now/helpers/check_mental_health.dart';
+import 'package:care_now/views/screens/screen_check_anxiety.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

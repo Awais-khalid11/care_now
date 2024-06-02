@@ -1,5 +1,5 @@
-import 'package:CareNow/helpers/constants.dart';
-import 'package:CareNow/views/screens/screen_home.dart';
+import 'package:care_now/helpers/constants.dart';
+import 'package:care_now/views/screens/screen_home.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sizer/sizer.dart';

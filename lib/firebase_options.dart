@@ -50,19 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAY8dHUTV3Jui5Wjk_Xx29SsjzSuo9EyPI',
-    appId: '1:242364153340:android:0bd8aff8b29476b42d0679',
-    messagingSenderId: '242364153340',
-    projectId: 'blood-app-7f411',
-    storageBucket: 'blood-app-7f411.appspot.com',
+    apiKey: 'AIzaSyBVHxkD5mZJGyPSLqekrvQcfiCvDh56t60',
+    appId: '1:142655453463:android:20346eb1d730eb22711f52',
+    messagingSenderId: '142655453463',
+    projectId: 'care-now-ffcfb',
+    storageBucket: 'care-now-ffcfb.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAruiv5AasEjAnBi2NJyqTkSOZcy2QVjIw',
-    appId: '1:242364153340:ios:f2029b0fa95b3f382d0679',
-    messagingSenderId: '242364153340',
-    projectId: 'blood-app-7f411',
-    storageBucket: 'blood-app-7f411.appspot.com',
+    apiKey: 'AIzaSyBweJ8hh4ZgFiw-SJVvvTb7RmpgCPFqXhE',
+    appId: '1:142655453463:ios:80dff5a27b8c3671711f52',
+    messagingSenderId: '142655453463',
+    projectId: 'care-now-ffcfb',
+    storageBucket: 'care-now-ffcfb.appspot.com',
     iosBundleId: 'skylinecoderz.com.careNow',
   );
+
 }
